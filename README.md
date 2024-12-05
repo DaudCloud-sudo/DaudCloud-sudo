@@ -1,11 +1,15 @@
 # Hi there, I'm @DaudCloud-sudo! 👋
 
 🎓 **Certification**:  
-I'm proudly AWS Certified Solutions Architect – Associate  
-![AWS Certification Badge](https://github.com/user-attachments/assets/d1dd1f93-bed7-4827-8cdf-52f53bf32220)
+I'm proudly AWS Certified Solutions Architect – Associate
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/d1dd1f93-bed7-4827-8cdf-52f53bf32220" alt="AWS Certification Badge" width="150"/>
+  <img src="https://github.com/user-attachments/assets/cb183f7e-a12c-4cd0-b0b8-650f114e8310" alt="AWS Certified Solutions Architect - Associate" width="200"/>
+</div>
 
 💼 **Where I work**:  
 Currently working at **MCG Technologies (Kloud7)**, where I'm contributing to innovative cloud-based solutions, optimizing network systems, and implementing cutting-edge technologies.
+
 
 👀 **I’m interested in**:
 - Designing cloud-based solutions on AWS
