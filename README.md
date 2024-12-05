@@ -2,7 +2,7 @@
 
 🎓 **Certification**:  
 I'm proudly AWS Certified Solutions Architect – Associate  
-![AWS Certification Badge](![image](https://github.com/user-attachments/assets/d1dd1f93-bed7-4827-8cdf-52f53bf32220))
+![AWS Certification Badge](https://github.com/user-attachments/assets/d1dd1f93-bed7-4827-8cdf-52f53bf32220)
 
 💼 **Where I work**:  
 Currently working at **MCG Technologies (Kloud7)**, where I'm contributing to innovative cloud-based solutions, optimizing network systems, and implementing cutting-edge technologies.
