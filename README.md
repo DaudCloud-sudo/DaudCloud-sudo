@@ -11,20 +11,31 @@ I'm proudly AWS Certified Solutions Architect – Associate
 Currently working at **MCG Technologies (Kloud7)**, where I'm contributing to innovative network-based solutions, optimizing network systems, and implementing cutting-edge technologies.
 
 
-👀 **I’m interested in**:
-- Designing cloud-based solutions on AWS
-- AI/ML technologies and their real-world applications
-- Creating and optimizing network systems
+👀 **I’m interested in:
 
-🌱 **I’m currently learning**:
-- Advanced AWS cloud solutions
-- CI/CD pipelines and DevOps practices
-- Deepening my knowledge in AI/ML and Generative AI
+Designing real-time embedded systems using C++ and Python.
 
-💞️ **I’m looking to collaborate on**:
-- Innovative cloud solutions and architecture design
-- AI/ML projects and applications
-- Any exciting tech projects involving networking and cloud technologies
+Bridging the gap between hardware (IoT, sensors) and AWS cloud-native solutions.
+
+Applying AI/ML models to data from physical systems.
+
+Creating and optimizing high-performance network systems and cloud infrastructure.
+
+🌱 I’m currently learning:
+
+Advanced C++ (C++17/20) for high-performance applications.
+
+CI/CD pipelines for both cloud and embedded workflows.
+
+Advanced AWS solutions for the edge (IoT Core, SageMaker).
+
+💞️ I’m looking to collaborate on:
+
+IoT projects (C++ device-side + AWS backend).
+
+Embedded ML/AI applications in Python.
+
+Open-source networking or cloud architecture projects.
 
 📫 **How to reach me**:
 - [LinkedIn](https://www.linkedin.com/in/shahzaib-daud-computer-engineer/)
